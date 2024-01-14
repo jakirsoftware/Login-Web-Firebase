@@ -84,9 +84,9 @@ submitButton.addEventListener("click", function() {
     .then((userCredential) => {
       // Signed in
       const user = userCredential.user;
-      //console.log("Success! Welcome back!");
+      console.log("Success! Welcome back!");
       //window.alert("Success! Welcome back!");
-      window.alert("https://google.com/");
+      window.location.replace('https://google.com/');
     
       // ...
     })
