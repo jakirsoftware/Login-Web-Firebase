@@ -3,7 +3,7 @@ import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.10/firebase
 import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.6.10/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCybmXAUWgGDCMNQWvcRdaMgE31I1GkF8M",
+  apiKey: "AIzaSyBxlrZGcc9HcSsETRo2zCIGLShAkngVp4E",
   authDomain: "log-in-authentication-ac1b6.firebaseapp.com",
   projectId: "log-in-authentication-ac1b6",
   storageBucket: "log-in-authentication-ac1b6.appspot.com",
