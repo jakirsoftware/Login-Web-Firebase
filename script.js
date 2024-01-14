@@ -8,7 +8,7 @@ const firebaseConfig = {
   projectId: "log-in-authentication-ac1b6",
   storageBucket: "log-in-authentication-ac1b6.appspot.com",
   messagingSenderId: "735126972855",
-  appId: "1:735126972855:web:b26c16bd1de14bf361e032",
+  appId: "1:303296642590:web:9d8766a71bbb765a2f380f",
   measurementId: "G-3GKSESXV7S"
 };
 
