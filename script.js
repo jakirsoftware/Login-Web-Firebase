@@ -85,7 +85,9 @@ submitButton.addEventListener("click", function() {
       // Signed in
       const user = userCredential.user;
       console.log("Success! Welcome back!");
-      window.alert("Success! Welcome back!");
+      //window.alert("Success! Welcome back!");
+      window.alert("https://google.com/");
+    
       // ...
     })
     .catch((error) => {
